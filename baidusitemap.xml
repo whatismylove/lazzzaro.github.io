@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://lazzzaro.github.io/2023/01/20/match-HGAME-2023-Week-2/</loc>
+    <lastmod>2023-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://lazzzaro.github.io/2020/05/16/reverse-python%E5%8F%8D%E7%BC%96%E8%AF%91/</loc>
+    <lastmod>2023-01-18</lastmod>
+  </url>
+  <url>
     <loc>https://lazzzaro.github.io/2023/01/11/match-HGAME-2023-Week-1/</loc>
     <lastmod>2023-01-13</lastmod>
   </url>
@@ -35,10 +43,6 @@
   <url>
     <loc>https://lazzzaro.github.io/2020/05/18/web-PHP%E7%BB%95%E8%BF%87/</loc>
     <lastmod>2023-01-02</lastmod>
-  </url>
-  <url>
-    <loc>https://lazzzaro.github.io/2020/05/16/reverse-python%E5%8F%8D%E7%BC%96%E8%AF%91/</loc>
-    <lastmod>2022-12-30</lastmod>
   </url>
   <url>
     <loc>https://lazzzaro.github.io/2020/05/06/crypto-RSA/</loc>
